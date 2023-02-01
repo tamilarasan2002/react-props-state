@@ -1,0 +1,12 @@
+
+header{
+    background-color: aqua;
+  }
+  .navi {
+    display: flex;
+    justify-content: center;
+    color: blue;
+  }
+  .navi h1{
+    margin: 0 1rem;
+  }

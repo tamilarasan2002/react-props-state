@@ -1,0 +1,13 @@
+.home h1,h2{
+    font-size: 3rem;
+    color: #fff;
+  }
+  .home{
+    background-image:linear-gradient(rgba(105, 105, 202, 0.558),rgba(105, 105, 202, 0.558)),url(./logo192.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
